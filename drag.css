@@ -1,0 +1,22 @@
+.flex {
+    display: flex;
+}
+
+.field, .field2 {
+    width: 50%;
+    min-height: 400px;
+    border: 2px solid darkslateblue;
+    box-sizing: border-box;
+}
+
+.field {
+    background-color: lightcyan;
+}
+
+.field2 {
+    background-color: lightgoldenrodyellow;
+}
+
+img {
+    width: 70px;
+}
